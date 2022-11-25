@@ -2,7 +2,9 @@
 :sparkles:</h2>
 반갑습니다! 
 <br></br>
-이제 막 첫 걸음을 내딛으려고 하는 주니어 프론트엔드 개발자 이동명 입니다.:computer:
+:computer: 이제 막 첫 걸음을 내딛으려고 하는 주니어 프론트엔드 개발자 이동명 입니다.
+<br></br>
+:man: 사용자 친화적인 UI/UX에 대해 고민합니다.
 <br></br>
 <h4>Language & Framework</h4>
 
